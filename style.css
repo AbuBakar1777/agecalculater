@@ -1,0 +1,38 @@
+.list1{
+    display: inline-block;
+    padding: 2px;
+    margin-left: 40px;
+
+}
+.ul1{border: 2px solid white;
+    
+    width: auto;
+    text-decoration: none;
+}
+.search{margin-top: 6px;
+    float: right;
+    margin-right: 10px;
+}
+.line{
+clear: both;
+position: relative;
+color: red;
+}
+.img{
+   display: flex;
+   flex-wrap: wrap;
+  margin-left: 400px;
+}
+
+.imges{
+   margin-left: 150px;
+}
+.imges1{
+    padding: 10px;
+}
+.imagesline2{
+    margin-left: 70px;
+}
+.imges2{
+    padding: 5px;
+}
